@@ -1,12 +1,21 @@
-## Hi there 👋
+# Benvenuti sul profilo Github dell'app del fumetto 👋
 
-<!--
+## Chi siamo:
+Il team dell'app del fumetto sta sviluppando una piattaforma semplice e intuitiva per scoprire nuovi fumetti e le novità della settimana dei vari editori italiani.
 
-**Here are some ideas to get you started:**
+<br/>
 
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
--->
+* [🌐 Sito web (work in progress)](https://www.fumetto.app/)
+* [🌐 API (work in progress)](https://api.fumetto.app/)
+* [📷 Instagram](https://www.fumetto.app/)
+* 📬 Contattami: [francesco@ciannavei.dev](mailto:francesco@ciannavei.dev)
+
+<br/>
+
+
+## Il team
+
+| Sviluppatori  |  |
+| ------------- |:-------------:|
+|[@Franky5831](https://github.com/Franky5831)|Frontend/Backend|
+|[@Heyaka1](https://github.com/Heyaka1)|Frontend|
