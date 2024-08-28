@@ -7,7 +7,7 @@ Il team dell'app del fumetto sta sviluppando una piattaforma semplice e intuitiv
 
 * [🌐 Sito web (work in progress)](https://www.fumetto.app/)
 * [🌐 API (work in progress)](https://api.fumetto.app/documentation/)
-* [📷 Instagram](https://www.instagram.com/fumetto_app)
+* [📷 Instagram](https://www.instagram.com/fumetto.app)
 * 📬 Contattami: [francesco@ciannavei.dev](mailto:francesco@ciannavei.dev)
 
 <br/>
